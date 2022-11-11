@@ -10,7 +10,7 @@ public class DebugSix1 {
             int day = 1;
             while(day < DAYS)
             {
-
+                //money 
                 money *= 2 ;
                 day++;
             }
